@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jznevers
+- 👋 Hi, I’m Jasmine
 - 👀 I’m interested in Anime & Art
-- 🌱 I’m currently learning Front End Dev
-- 💞️ Not looking to collab yet
+- 🌱 I’m currently learning Front End & GIS Dev
 - 📫 Discord: ZarreaJay#8844 Email:Jznevers@gmail.com
 
 <!---
